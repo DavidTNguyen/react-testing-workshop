@@ -36,7 +36,7 @@ After you've made sure to have the correct things (and versions) installed, you
 should be able to just run a few commands to get set up:
 
 ```
-git clone https://github.com/kentcdodds/react-testing-workshop.git
+git clone https://github.com/davidtnguyen/react-testing-workshop.git
 cd react-testing-workshop
 npm run setup --silent
 ```
