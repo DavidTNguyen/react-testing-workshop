@@ -40,6 +40,7 @@ cd react-testing-workshop
 npm run setup --silent
 ```
 
+
 This may take a few minutes. **It will ask you for your email.** This is
 optional and just automatically adds your email to the links in the project to
 make filling out some forms easier If you get any errors, please read through
