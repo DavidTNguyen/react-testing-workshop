@@ -76,10 +76,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/react-testing-workshop.git"
+    "url": "git+https://github.com/davidtnguyen/react-testing-workshop.git"
   },
   "bugs": {
-    "url": "https://github.com/kentcdodds/react-testing-workshop/issues"
+    "url": "https://github.com/davidtnguyen/react-testing-workshop/issues"
   },
   "homepage": "https://react-testing-workshop.netlify.com",
   "browserslist": [
